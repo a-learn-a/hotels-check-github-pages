@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hotels-check-github-pages/static/css/main.0dfb84ce.css",
+    "main.js": "/hotels-check-github-pages/static/js/main.89ef147b.js",
+    "static/js/787.b376a790.chunk.js": "/hotels-check-github-pages/static/js/787.b376a790.chunk.js",
+    "static/media/auth-bg.jpg": "/hotels-check-github-pages/static/media/auth-bg.6865f492d4cbdca1ea24.jpg",
+    "static/media/carousel_pic_1.jpg": "/hotels-check-github-pages/static/media/carousel_pic_1.1d1c1ff4d794095f7a34.jpg",
+    "static/media/carousel_pic_3.jpg": "/hotels-check-github-pages/static/media/carousel_pic_3.a0fca29a1f976000e714.jpg",
+    "static/media/carousel_pic_2.jpg": "/hotels-check-github-pages/static/media/carousel_pic_2.72b51dff4c3e75db46fa.jpg",
+    "index.html": "/hotels-check-github-pages/index.html",
+    "main.0dfb84ce.css.map": "/hotels-check-github-pages/static/css/main.0dfb84ce.css.map",
+    "main.89ef147b.js.map": "/hotels-check-github-pages/static/js/main.89ef147b.js.map",
+    "787.b376a790.chunk.js.map": "/hotels-check-github-pages/static/js/787.b376a790.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dfb84ce.css",
+    "static/js/main.89ef147b.js"
+  ]
+}
